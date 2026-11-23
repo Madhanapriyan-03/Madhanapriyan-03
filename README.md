@@ -1,150 +1,127 @@
-<!-- PROFILE HEADER -->
+<!-- ===================== PROFILE HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:102a43,100:00e5ff&height=190&section=header&text=MADHANAPRIYAN%20M&fontSize=42&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F33,100:00D9FF&height=210&section=header&text=MADHANAPRIYAN%20M&fontSize=44&fontColor=E6FBFF&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20AI&descAlignY=60&descSize=15" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Software+Developer;Python+%7C+Java+%7C+C%2B%2B;Building+Practical+Technology+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+Software+Developer;Exploring+Networks+%26+Secure+Systems;Building+Practical+Technology" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Madhanapriyan-03">
-    <img src="https://img.shields.io/badge/GitHub-Madhanapriyan--03-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madhanapriyan-m">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-  </a>
-  <a href="mailto:nrmadhan23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
-  </a>
+  <a href="https://github.com/Madhanapriyan-03"><img src="https://img.shields.io/badge/GitHub-Madhanapriyan--03-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/madhanapriyan-m"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nrmadhan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email me" /></a>
+</p>
+
+<p align="center">
+  <b>Think clearly. Build responsibly. Secure continuously.</b>
 </p>
 
 ---
 
-## `whoami` 👨‍💻
+## `whoami` // About Me
 
-Hi! I'm **Madhanapriyan M**, an Artificial Intelligence and Data Science undergraduate at Sri Krishna College of Technology.
+Hi, I'm **Madhanapriyan M**, an Artificial Intelligence and Data Science undergraduate at **Sri Krishna College of Technology**.
 
-I'm passionate about Cybersecurity, Software Development and AI-powered security solutions. I enjoy building practical applications, exploring computer networks and developing tools that solve real-world problems.
+I'm interested in **cybersecurity, network security, software engineering, and AI-powered applications**. I enjoy understanding how systems work, building practical tools, and learning how to make technology more secure and useful.
 
-- 🎓 B.Tech Artificial Intelligence and Data Science
+- 🎓 B.Tech – Artificial Intelligence and Data Science
 - 🏫 Sri Krishna College of Technology
-- 📊 CGPA: 8.27/10
-- 🎯 Expected Graduation: 2028
-- 🔐 Interested in Cybersecurity and Ethical Hacking
-- 💻 Focused on Python, Backend Development and Network Automation
-- 🧠 Exploring AI-powered applications and intelligent security solutions
-
-> `Building technology. Exploring security. Learning continuously.`
+- 📊 CGPA: **8.27 / 10**
+- 🎯 Expected graduation: **2028**
+- 🔐 Interested in cybersecurity, ethical hacking, and penetration testing
+- 💻 Working with Python, Java, C++, backend technologies, and networking
+- 🧠 Exploring machine learning and AI-assisted security tools
 
 ---
 
-## `tech_stack` ⚙️
+## `toolkit` // Tech Stack
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,react,spring,linux,kali,bash,git,github,vscode,androidstudio&perline=7" alt="Technology stack" />
 </p>
 
-### Web & Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,spring,react" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-0D1117?style=flat-square&logo=cisco&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Backend-REST%20APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Model%20Building-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Tools-VirtualBox-0D1117?style=flat-square&logo=virtualbox&logoColor=00D9FF" />
 </p>
 
-### Cybersecurity & Networking
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+## `selected_work` // Featured Projects
+
+<p align="center">
+  <i>A selection of projects across cybersecurity, machine learning, audio AI, and software development.</i>
 </p>
 
-### Tools & Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
-</p>
-
-**Additional Technologies:** REST APIs, Computer Networking, Socket Programming, VirtualBox.
-
----
-
-## `featured_projects` 🚀
-
-### 01. Multi-Threaded TCP Port Scanner
-
-🔍 **Python | Socket Programming | Multithreading**
-
-Developed a multi-threaded TCP port scanner to efficiently identify open TCP ports.
-
-- Used Python sockets and threading.
-- Implemented concurrent port scanning.
-- Explored network reconnaissance and socket programming.
-
-🔗 [View Project](https://github.com/Madhanapriyan-03/Multi-Threaded-TCP-Port-Scanner)
-
----
-
-### 02. Piano Note Recognition & Automatic Transcription
-
-🎹 **Deep Learning | Audio Processing | CRNN | MIDI**
-
-Developed a deep learning-based application that recognizes piano notes from audio and generates timestamped musical transcriptions.
-
-- Integrated a pretrained CRNN model.
-- Implemented audio processing.
-- Developed an interactive virtual piano keyboard.
-- Added MIDI export functionality.
-
-🔗 [View All Repositories](https://github.com/Madhanapriyan-03?tab=repositories)
-
----
-
-### 03. SkillSprint – Skill-Based Learning Platform
-
-💻 **React | Authentication | Learning Management**
-
-Developed a React-based learning platform featuring structured learning roadmaps, authentication, enrollments and assignment submissions.
-
-- Implemented interactive learning workflows.
-- Tracked learning milestones and submissions.
-- Managed grades and course completion status.
-
-🔗 [View All Repositories](https://github.com/Madhanapriyan-03?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ AI-Assisted Network Security Analyzer</h3>
+      <p><b>Python · FastAPI · React · Vite · Tailwind · Random Forest · SQLite</b></p>
+      <p>A defensive network security platform that scans TCP services, engineers host-exposure features, predicts security risk with a trained Random Forest model, and generates security recommendations.</p>
+      <p>
+        <a href="https://github.com/Madhanapriyan-03/AI-Assisted-Network-Security-Analyzer"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="View repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎹 Piano Note Recognition & Transcription</h3>
+      <p><b>Python · Deep Learning · CRNN · Audio Processing · MIDI</b></p>
+      <p>A piano transcription application that recognizes polyphonic piano notes from audio and produces timestamped notes, piano-roll visualizations, and downloadable MIDI and JSON files.</p>
+      <p>
+        <a href="https://github.com/Madhanapriyan-03/Piano-Note-Recognition"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="View repository" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Multi-Threaded TCP Port Scanner</h3>
+      <p><b>Python · Socket Programming · Threading</b></p>
+      <p>A Python-based TCP port scanner that uses multithreading to identify open ports, retrieve service banners, validate targets, and report scan duration.</p>
+      <p>
+        <a href="https://github.com/Madhanapriyan-03/Multi-Threaded-TCP-Port-Scanner"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="View repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 SkillSprint – Skill-Based Learning Platform</h3>
+      <p><b>React · JavaScript · Learning Workflows</b></p>
+      <p>A learning platform project focused on structured roadmaps, user authentication, enrollments, assignment submissions, and progress tracking.</p>
+      <p>
+        <a href="https://github.com/Madhanapriyan-03/SkillSprint"><img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00D9FF?style=for-the-badge&logo=github&logoColor=07111F" alt="View repository" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `certifications` 🏆
+## `certifications` // Learning
 
 - **NPTEL**
   - Fundamental Algorithms: Design and Analysis
   - Programming with Generative AI
-- Multiple Coursera certifications in Programming and Artificial Intelligence.
-- Multiple Infosys Springboard certifications in Programming and Artificial Intelligence.
+- **Coursera** – Programming and Artificial Intelligence courses
+- **Infosys Springboard** – Programming and Artificial Intelligence courses
 
 ---
 
-## `github_activity` 📊
+## `github_stats` // Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhanapriyan-03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhanapriyan-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
 </p>
 
 ---
 
-## `connect_with_me` 🌐
+## `connect` // Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Madhanapriyan-03">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madhanapriyan-m">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0d1117?style=for-the-badge&logo=linkedin&logoColor=00e5ff"/>
-  </a>
-  <a href="mailto:nrmadhan23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00e5ff"/>
-  </a>
+  <a href="https://www.linkedin.com/in/madhanapriyan-m"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nrmadhan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Send an email" /></a>
+  <a href="https://github.com/Madhanapriyan-03"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" /></a>
 </p>
 
 <p align="center">
@@ -152,5 +129,5 @@ Developed a React-based learning platform featuring structured learning roadmaps
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:102a43,100:050505&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0B1F33,100:050816&height=105&section=footer" width="100%" />
 </p>
