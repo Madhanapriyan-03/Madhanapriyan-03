@@ -1,15 +1,15 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F33,100:00D9FF&height=210&section=header&text=MADHANAPRIYAN%20M&fontSize=44&fontColor=E6FBFF&animation=fadeIn&fontAlignY=36&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20AI&descAlignY=60&descSize=15" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B1F33,100:00D9FF&height=210&section=header&text=MADHANAPRIYAN%20M&fontSize=44&fontColor=E6FBFF&animation=fadeIn&fontAlignY=36&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20SCIENCE%20%7C%20CYBERSECURITY&descAlignY=60&descSize=15" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+Software+Developer;Exploring+Networks+%26+Secure+Systems;Building+Practical+Technology" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Undergraduate;Exploring+Artificial+Intelligence+%26+Machine+Learning;Learning+Cybersecurity+%26+Network+Security;Building+Practical+Technology" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Madhanapriyan-03"><img src="https://img.shields.io/badge/GitHub-Madhanapriyan--03-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Madhanapriyan/"><img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
   <a href="https://www.linkedin.com/in/madhanapriyan-m"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nrmadhan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Email me" /></a>
 </p>
@@ -24,15 +24,15 @@
 
 Hi, I'm **Madhanapriyan M**, an Artificial Intelligence and Data Science undergraduate at **Sri Krishna College of Technology**.
 
-I'm interested in **cybersecurity, network security, software engineering, and AI-powered applications**. I enjoy understanding how systems work, building practical tools, and learning how to make technology more secure and useful.
+I'm equally interested in **Artificial Intelligence and Cybersecurity**. My current focus is on AI, Machine Learning, and intelligent applications, while I continue exploring network security and ethical hacking fundamentals. I enjoy building practical projects, experimenting with technologies, and strengthening my technical foundations.
 
 - 🎓 B.Tech – Artificial Intelligence and Data Science
 - 🏫 Sri Krishna College of Technology
 - 📊 CGPA: **8.27 / 10**
 - 🎯 Expected graduation: **2028**
-- 🔐 Interested in cybersecurity, ethical hacking, and penetration testing
+- 🤖 Currently focusing on Artificial Intelligence, Machine Learning, and intelligent applications
+- 🔐 Learning cybersecurity, network security, and ethical hacking fundamentals
 - 💻 Working with Python, Java, C++, backend technologies, and networking
-- 🧠 Exploring machine learning and AI-assisted security tools
 
 ---
 
@@ -121,7 +121,7 @@ I'm interested in **cybersecurity, network security, software engineering, and A
 <p align="center">
   <a href="https://www.linkedin.com/in/madhanapriyan-m"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nrmadhan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20a%20Message-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF" alt="Send an email" /></a>
-  <a href="https://github.com/Madhanapriyan-03"><img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" /></a>
+  <a href="https://leetcode.com/u/Madhanapriyan/"><img src="https://img.shields.io/badge/LeetCode-Profile-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile" /></a>
 </p>
 
 <p align="center">
